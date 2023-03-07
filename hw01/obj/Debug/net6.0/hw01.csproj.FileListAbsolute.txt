@@ -1,0 +1,15 @@
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\bin\Debug\net6.0\hw01.exe
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\bin\Debug\net6.0\hw01.deps.json
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\bin\Debug\net6.0\hw01.runtimeconfig.json
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\bin\Debug\net6.0\hw01.dll
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\bin\Debug\net6.0\hw01.pdb
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\obj\Debug\net6.0\hw01.csproj.AssemblyReference.cache
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\obj\Debug\net6.0\hw01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\obj\Debug\net6.0\hw01.AssemblyInfoInputs.cache
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\obj\Debug\net6.0\hw01.AssemblyInfo.cs
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\obj\Debug\net6.0\hw01.csproj.CoreCompileInputs.cache
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\obj\Debug\net6.0\hw01.dll
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\obj\Debug\net6.0\refint\hw01.dll
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\obj\Debug\net6.0\hw01.pdb
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\obj\Debug\net6.0\hw01.genruntimeconfig.cache
+C:\Users\Julia\GoogleDrive\GB\Developer\23022023\hw01\obj\Debug\net6.0\ref\hw01.dll
